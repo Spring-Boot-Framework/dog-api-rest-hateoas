@@ -16,6 +16,7 @@ GET, POST, PUT, DELETE available.
 
 This app provides simple Dogs API and decorates it with HATEOAS links.
 Links work with dynamic actions (adoptions API).
+Add Dog Adoption by POST. Adoption is in SHELTERED state, use links to move between states up to ADOPTED.
 
 # Technologies: 
 
